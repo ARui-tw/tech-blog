@@ -1,0 +1,26 @@
+languageCode = "tw"
+languageName = "正體中文"
+weight = 1
+title = "ARui's Blog"
+contentDir = 'content/tw'
+
+
+[params]
+  displayName = "正體中文"
+  isoCode = "tw"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "ARui's Blog"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2006/1/2"
+
+[params.author]
+  name = "ARui's Blog"
+  image = "img/avatar.png"
+  headline = "ARui's Blog for tech, code and random stuff"
+  bio = "A little bit about you"
+  links = [
+    { github = "https://github.com/ARui-tw" },
+    { linkedin = "https://www.linkedin.com/in/arui-tw/" },
+    { email = "mailto:mail@arui.dev" },
+  ]
