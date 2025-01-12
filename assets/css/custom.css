@@ -1,0 +1,14 @@
+/* Font: Iansui
+ * Copyright (C) 2022 The Iansui Project Authors
+ * Licensed under the SIL Open Font License, Version 1.1
+ * https://github.com/ButTaiwan/iansui
+ */
+
+@font-face {
+    font-family: Iansui;
+    src: url('/fonts/Iansui-Regular.ttf');
+}
+
+html {
+    font-family: Iansui;
+}
