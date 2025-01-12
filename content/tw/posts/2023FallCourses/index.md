@@ -2,7 +2,7 @@
 title: "陽明交大資工所碩一上（2023 Fall）修課心得"
 date: 2024-03-06
 tags: ["NYCU", "Course"]
-categories: ["NYCU"]
+categories: ["Others"]
 ---
 
 ## 作業系統
