@@ -143,4 +143,5 @@ Sec-WebSocket-Accept: s3pPLMBiTxaQ9kYGzzhZRbK+xOo=
 
 然後因為 WebSocket 是在另一個通訊方式下溝通的，所以他並不會占用原本用 HTTP 溝通的管道。
 
-[WebSockets in 100 Seconds & Beyond with Socket.io](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
+### 參考資料
+{{<youtubeLite id="1BfCnjr_Vjg">}}
