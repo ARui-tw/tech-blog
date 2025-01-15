@@ -22,6 +22,7 @@ contentDir = 'content/en'
   links = [
     { github = "https://github.com/ARui-tw" },
     { linkedin = "https://www.linkedin.com/in/arui-tw/" },
+    { person = "/resume.pdf" },
     { email = "mailto:mail@arui.dev" },
     { rss = "/index.xml" },
   ]

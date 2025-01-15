@@ -16,15 +16,14 @@
   weight = 10
 
 [[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 10
+
+[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/arui-tw"
-  weight = 50
-
-[[main]]
-  identifier = "linkedin"
-  pre = "linkedin"
-  url = "https://www.linkedin.com/in/arui-tw/"
   weight = 50
 
 # -- Footer Menu --
