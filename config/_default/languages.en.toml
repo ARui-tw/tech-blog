@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "EN"
 weight = 1
 title = "ARui's Blog"
-contentDir = 'content/tw'
+contentDir = 'content/en'
 
 
 [params]
@@ -16,11 +16,12 @@ contentDir = 'content/tw'
 
 [params.author]
   name = "ARui's Blog"
-  image = "img/avatar.png"
+  image = "img/arui.jpeg"
   headline = "ARui's Blog for tech, code and random stuff"
   bio = "A little bit about you"
   links = [
     { github = "https://github.com/ARui-tw" },
     { linkedin = "https://www.linkedin.com/in/arui-tw/" },
     { email = "mailto:mail@arui.dev" },
+    { rss = "/index.xml" },
   ]
