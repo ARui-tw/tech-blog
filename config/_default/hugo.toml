@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://blog-v2.arui.dev/"
+baseURL = "https://tech.arui.dev/"
 defaultContentLanguage = "tw"
 
 enableRobotsTXT = true
