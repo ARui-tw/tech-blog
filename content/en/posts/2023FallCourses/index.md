@@ -11,10 +11,10 @@ categories: ["Others"]
 - Permanent Course ID: CSIC30015
 - Instructor: Prof. Chun-Feng Wu
 
+<!--more-->
+
 ### Course Content
 Since I didn’t take the undergraduate OS course offered by NYCU, I’m not sure how it compares. However, it feels different from the one at NTHU. Prof. Chou’s OS course at NTHU seemed to covered each component briefly, while this one dives deeper into each topic, though not extensively due to time constraints. The instructor seems to specialize in memory systems (he offers a course called *Memory and Storage Systems* next semester), so that part was particularly detailed and clear.
-
-<!--more-->
 
 ### Class Format
 The course is conducted in English, with both online and in-person options. Recordings of the lectures, including student questions, are available. I only attended the first class and the midterm/final exams in-person, though.
