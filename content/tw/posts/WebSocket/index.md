@@ -6,14 +6,12 @@ tags:
 categories: Tech Share
 ---
 
-{{<alert icon="pencil">}}
-[Notion 好讀版](https://arui-tw.notion.site/WebSocket-4aae9807cbc94e69b3e91fe69c58262b)
-{{</alert>}}
-
 網路溝通可以分成兩種主要的 API
 
 - Web Service APIs (e.g. SOAP, JSON-RPC, XML-RPC, REST)
 - Web Socket APIs
+
+<!--more-->
 
 ## HTTP
 
@@ -27,8 +25,6 @@ categories: Tech Share
 - PUT → 修改資料
 - POST → 新增資料
 - DELETE → 刪除資料
-
-<!--more-->
 
 ### HTTP polling(輪詢)
 

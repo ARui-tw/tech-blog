@@ -6,14 +6,12 @@ tags:
 categories: Tech Share
 ---
 
-{{<alert icon="pencil">}}
-[Notion Version](https://arui-tw.notion.site/WebSocket-4aae9807cbc94e69b3e91fe69c58262b)
-{{</alert>}}
-
 Internet communication can be divided into two main types of APIs:
 
 - Web Service APIs (e.g. SOAP, JSON-RPC, XML-RPC, REST)
 - Web Socket APIs
+
+<!--more-->
 
 ## HTTP
 
