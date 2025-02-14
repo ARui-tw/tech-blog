@@ -145,3 +145,7 @@ KOReader 裝好之後我遇到的第一個問題是：我之前愛用的 Merriam
 
 
 - 如果也想要在網頁的 KOReader 也用的話，他的 plugin folder 在 `volume/config/.config/koreader/plugins`
+
+## 成果
+只是想秀一下我的 ScreenSaver XDD
+![ScreenSaver](./img/KindleIna.jpg)
