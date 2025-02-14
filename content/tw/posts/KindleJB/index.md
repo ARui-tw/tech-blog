@@ -9,7 +9,8 @@ draft: true
 
 {{< alert cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee">}}
 
-警語：越獄帶有一定風險，包括讓你的裝置變成磚頭（Bricked），再也無法使用。
+警語：
+越獄帶有一定風險，包括讓你的裝置變成磚頭（Bricked），再也無法使用。
 
 {{< /alert >}}
 <!--more-->
