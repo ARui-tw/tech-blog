@@ -68,7 +68,9 @@ draft: true
 
 KOReader 裝好之後我遇到的第一個問題是：我之前愛用的 Merriam Webster 抓不到了 QQ
 
-- 如果你沒有跟我一樣堅持要裝特定的字典的話，可以直接在 [KOReader 提供的字典](https://github.com/koreader/koreader/wiki/Dictionary-download)中選一個下載，或是[這邊](https://github.com/koreader/koreader/wiki/Dictionary-support#where-to-find--dictionaries)列出的其他開源的字典。
+{{< alert icon="pencil" >}}
+如果你沒有跟我一樣堅持要裝特定的字典的話，可以直接在 [KOReader 提供的字典](https://github.com/koreader/koreader/wiki/Dictionary-download)中選一個下載，或是[這邊](https://github.com/koreader/koreader/wiki/Dictionary-support#where-to-find--dictionaries)列出的其他開源的字典。
+{{< /alert >}}
 
 1. 下載字典本人：
 
