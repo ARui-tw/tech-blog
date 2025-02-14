@@ -52,6 +52,8 @@ draft: true
 
       - 我是選這個，比較不麻煩，不過平常就不會是用 Kindle 原生的閱讀介面了，會需要適應新的閱讀介面
 
+	  - KOReader 的另一個好處是他可以紀錄你的閱讀進度和各種奇怪的客製化，可以參考[這個影片](https://www.youtube.com/watch?v=HBKD7dh1rDU)。
+
 ## [KOReader](https://github.com/koreader/koreader)
 
 - 直接照著 [GitHub 上的 Wiki](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices) 做就好了
