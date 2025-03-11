@@ -16,7 +16,7 @@ contentDir = 'content/tw'
 
 [params.author]
   name = "ARui's Blog"
-  image = "img/arui.jpeg"
+  image = "img/arui.jpg"
   headline = "ARui's Blog for tech, code and random stuff"
   bio = "A little bit about you"
   links = [
