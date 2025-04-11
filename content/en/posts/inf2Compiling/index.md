@@ -6,8 +6,6 @@ tags:
 categories: Tech Share
 ---
 
-# Compiling Neuron model
-
 PyTorch Neuron works similarly to TorchScript’s Tracing [\[1\]](#references), as it compiles your model based on provided input and output example to accelerate inference/training time. One trade-off of this approach is that the input and output dimensions become fixed to the dimensions of the example you provide during compilation.
 
 Unlike TorchScript, PyTorch Neuron can only run on NeuronChips, which are provided by AWS. However, the compilation process can still be performed on any machine with CPUs.
