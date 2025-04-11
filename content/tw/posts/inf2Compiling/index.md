@@ -1,6 +1,6 @@
 ---
 title: "Compiling Neuron model"
-date: 2025-04-10 16:14:00
+date: 2025-04-11 16:14:00
 tags:
     - Notes
 categories: Tech Share
