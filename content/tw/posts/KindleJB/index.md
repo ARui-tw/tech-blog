@@ -1,6 +1,8 @@
 ---
 title: "Kindle 越獄 & KOReader"
 date: 2025-02-12
+lastmod: 2025-04-14
+showDateUpdated: true
 tags: [""]
 categories: ["Tech Share"]
 ---
@@ -22,9 +24,11 @@ categories: ["Tech Share"]
 
 - [WinterBreak](https://www.mobileread.com/forums/showthread.php?t=365372)
 
-   - 不用特定韌體！
+   - ~~不用特定韌體！~~
 
-      WinterBreak is a new jailbreak which works on **ANY KINDLE** (from the K5) on **ANY FIRMWARE**
+      ~~WinterBreak is a new jailbreak which works on **ANY KINDLE** (from the K5) on **ANY FIRMWARE**~~
+   
+   - 韌體只要是 5.18.1 以下就可以（不包含 5.18.1）。
 
    - 步驟：
 
@@ -124,7 +128,7 @@ KOReader 裝好之後我遇到的第一個問題是：我之前愛用的 Merriam
 
 - [安裝教學](https://github.com/hanatsumi/rakuyomi?tab=readme-ov-file#installation)
 
-- 需要把設定檔放在 `koreader/data/dict` 
+- 需要把設定檔放在 `koreader/rakuyomi` 裡面（database.db的旁邊）。
    
    ```json
    {
