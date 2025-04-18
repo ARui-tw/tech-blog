@@ -116,7 +116,7 @@ Over time, the rabbit and the shopkeeper become friends and freely communicate:
 
 Initially, they still use HTTP to establish a connection:
 
-![](img/Untitled.png)
+![](img/Untitled.webp)
 
 The Client sends a request to upgrade to WebSocket along with its key:
 

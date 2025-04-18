@@ -172,7 +172,7 @@ categories: ["Others"]
     
 ### 最後想說的話
 甜爛。建議去上課，拿原文書啃很花時間，但是可以學到比較多東西。
-![Untitled](img/score.png)
+![Untitled](img/score.webp)
     
 
 ## 軟體定義網路及網路功能虛擬化

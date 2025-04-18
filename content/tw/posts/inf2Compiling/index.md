@@ -34,7 +34,7 @@ If you read the [source code](https://github.com/huggingface/transformers/blob/v
 
 In the [generate function](https://github.com/huggingface/transformers/blob/0b057e66b52556da3a1cbc29e2a98c0784ea9c33/src/transformers/models/blip/modeling_blip.py#L1377), the `vision_model` first encodes the image, then the `text_encoder` encode both question and the output of `vision_model` and finally, use `text_decoder`’s generate function produces answer. If you are not familiar with how a transformer works, [here](https://youtu.be/N6aRv06iv2g?si=BoPIYH6mkoQezzFx) is a great video in Chinese that explains it.
 
-![image.png](./img/image.png)
+![image.webp](./img/image.webp)
 
 So, what we have to do is replace the three models with compiled neuron models, ensuring that the most time-consuming jobs is still handled by the neuron chip. We can use the comment [here](https://github.com/aws-neuron/aws-neuron-sdk/issues/672#issuecomment-1540781448) as an example of how to wrap these models so that they can be compiled.
 
@@ -116,7 +116,7 @@ class VisionModelWrapper(torch.nn.Module):
 
 So far the structure of these two models looks like this. What we will be compiling are `NeuronTextEncode` and `NeuronVisionModel`. And the final BLIP model will be using `TextEncoderWrapper` and `VisionModelWrapper` as the model to call.
 
-![image 1.png](./img/image%201.png)
+![image 1.webp](./img/image%201.webp)
 
 #### Text Decoder
 
@@ -251,7 +251,7 @@ class DecoderOutputFormatter(torch.nn.Module):
 
 ```
 
-![image 2.png](./img/image%202.png)
+![image 2.webp](./img/image%202.webp)
 
 #### Combine all the models
 

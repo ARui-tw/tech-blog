@@ -14,7 +14,6 @@ categories: ["Tech Share"]
 越獄帶有一定風險，包括讓你的裝置變成磚頭（Bricked），再也無法使用。
 
 {{< /alert >}}
-<!--more-->
 
 - 先前的 Jailbreak：
 
@@ -79,6 +78,8 @@ KOReader 裝好之後我遇到的第一個問題是：我之前愛用的 Merriam
 1. 下載字典本人：
 
    從 Amazon 的帳號裡面直接下載就好，位置在 `Amazon.com > Content Library > Dictionaries & User Guides > Merriam Webster's Advanced Learner's English Dictionary > Download & transfer via USB`
+
+   （2025-04-14 更新：Amazon 拔掉了下載的功能，不過還是有其他繞道的方法，如 [這個](https://youtu.be/v7rfGoINXyM) 跟 [這個](https://youtu.be/5CIFbUIKwDY）)，但我目前都還沒實驗過。如果是照著上面的影片做，他就會包含下面解 DRM 的步驟了。）
 
 2. 用 Calibre 解 DRM，可以參考[這篇文章](https://www.reddit.com/r/Calibre/comments/1ck4w8e/2024_guide_on_removing_drm_from_kobo_kindle_ebooks/)來解（直接快轉到「Remove Kindle DRM」那段就可以了。
 
@@ -152,4 +153,4 @@ KOReader 裝好之後我遇到的第一個問題是：我之前愛用的 Merriam
 
 ## 成果
 只是想秀一下我的 ScreenSaver XDD
-![ScreenSaver](./img/KindleIna.jpg)
+![ScreenSaver](./img/KindleIna.webp)

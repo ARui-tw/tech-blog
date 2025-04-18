@@ -115,7 +115,7 @@ categories: Tech Share
 
 但實際上，老闆跟兔子還是要先培養感情才能這樣輕鬆的溝通的，所以他們一開始還是會透過原本 HTTP 的方式來連線。
 
-![](img/Untitled.png)
+![](img/Untitled.webp)
 
 這就分別是 Client 和 Server 會傳給對方的訊息。Client 會傳送要求 Upgrade 到 websocket 的請求和 websocket 的 Key 等資料。
 

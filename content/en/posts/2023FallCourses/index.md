@@ -142,7 +142,7 @@ Pop quizzes are unannounced. Attendance is optional but beneficial.
 
 ### Final Thoughts
 Easy A+. Attend classes for a better grasp of the material.
-![Untitled](img/score.png)
+![Untitled](img/score.webp)
 
 ---
 
