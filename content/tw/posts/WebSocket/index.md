@@ -4,14 +4,13 @@ date: 2021-05-12 17:50:24
 tags:
     - Notes
 categories: Tech Share
+summary: "本篇以生活化比喻說明 HTTP 輪詢、長輪詢、串流、SSE 及 WebSocket 的通訊方式與差異，並介紹協定升級流程與常見應用。"
 ---
 
 網路溝通可以分成兩種主要的 API
 
 - Web Service APIs (e.g. SOAP, JSON-RPC, XML-RPC, REST)
 - Web Socket APIs
-
-<!--more-->
 
 ## HTTP
 

@@ -4,14 +4,13 @@ date: 2021-05-12 17:50:24
 tags:
     - Notes
 categories: Tech Share
+summary: "This post explains the differences between HTTP-based APIs (REST, polling, streaming, SSE) and WebSocket APIs, using analogies and code samples to illustrate communication models and protocol upgrades."
 ---
 
 Internet communication can be divided into two main types of APIs:
 
 - Web Service APIs (e.g. SOAP, JSON-RPC, XML-RPC, REST)
 - Web Socket APIs
-
-<!--more-->
 
 ## HTTP
 
@@ -25,8 +24,6 @@ Internet communication can be divided into two main types of APIs:
 - PUT → Modify data
 - POST → Add data
 - DELETE → Delete data
-
-<!--more-->
 
 ### HTTP Polling
 

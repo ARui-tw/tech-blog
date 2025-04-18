@@ -3,6 +3,7 @@ title: "NYCU CS Master Program Year 1, Semester 1 (2023 Fall) Course Review"
 date: 2024-03-06
 tags: ["NYCU", "Course"]
 categories: ["Others"]
+summary: "This post shares my thoughts on the first semester (Fall 2023) of my master’s program at NYCU CS, covering courses like Operating Systems, Seminar, Network Security, and more — including content, grading, and personal reflections."
 ---
 
 ## Operating System
@@ -10,8 +11,6 @@ categories: ["Others"]
 - Course Name: Operating System
 - Permanent Course ID: CSIC30015
 - Instructor: Prof. Chun-Feng Wu
-
-<!--more-->
 
 ### Course Content
 Since I didn’t take the undergraduate OS course offered by NYCU, I’m not sure how it compares. However, it feels different from the one at NTHU. Prof. Chou’s OS course at NTHU seemed to covered each component briefly, while this one dives deeper into each topic, though not extensively due to time constraints. The instructor seems to specialize in memory systems (he offers a course called *Memory and Storage Systems* next semester), so that part was particularly detailed and clear.

@@ -5,6 +5,7 @@ lastmod: 2025-04-14
 showDateUpdated: true
 tags: [""]
 categories: ["Tech Share"]
+summary: "本篇介紹 Kindle 越獄與 KOReader 安裝流程，包含越獄風險、適用韌體、WinterBreak 越獄步驟、休眠畫面自訂、KOReader 安裝與常見問題（如字典、Calibre-Web、iOS/網頁版、漫畫插件 rakuyomi），並分享個人使用心得與成果展示。"
 ---
 ## Kindle Jailbreak
 

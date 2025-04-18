@@ -4,6 +4,7 @@ date: 2025-04-10 16:14:00
 tags:
     - Notes
 categories: Tech Share
+summary: "This post is a step-by-step tutorial on compiling PyTorch models for AWS Neuron (Inf2) chips, focusing on BlipForQuestionAnswering. It covers model wrapping, tracing, inference, and practical code examples for deployment."
 ---
 
 PyTorch Neuron works similarly to TorchScript’s Tracing [\[1\]](#references), as it compiles your model based on provided input and output example to accelerate inference/training time. One trade-off of this approach is that the input and output dimensions become fixed to the dimensions of the example you provide during compilation.
