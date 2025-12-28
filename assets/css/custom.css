@@ -4,12 +4,14 @@
  * https://github.com/ButTaiwan/iansui
  */
 
-@font-face {
-    font-family: Iansui;
-    src: url('/fonts/Iansui-Regular.ttf');
-    font-display: swap;
-}
+/* @font-face { */
+/*     font-family: Iansui; */
+/*     src: url('/fonts/Iansui-Regular.ttf'); */
+/*     font-display: swap; */
+/* } */
 
 html {
-    font-family: Iansui;
+
+    font-family: 'Iansui', sans-serif;
+    /* font-family: Iansui; */
 }
