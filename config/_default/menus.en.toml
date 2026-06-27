@@ -21,6 +21,11 @@
   weight = 20
 
 [[main]]
+  name = "Podcast"
+  pageRef = "podcast"
+  weight = 30
+
+[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/arui-tw"
