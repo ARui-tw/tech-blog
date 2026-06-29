@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP204 | 符合這些條件，就可以裸辭 ft. Bryan 大人學",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "71e52a6d-94c4-4f5d-b9a1-874c8cd7f26f",
+      "dateText": "Dec 15, 2025",
+      "durationText": "53 mins"
+    },
+    {
       "title": "EP202 | 諮商心理師：人突然開朗也可能是自殺前訊號 ft. 蘇予昕",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "36608c1e-a466-4d71-b958-7c54b43c9a71",
       "dateText": "Jan 29, 2026",
       "durationText": "33 mins"
-    },
-    {
-      "title": "The Big Bird Fluffer",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "283bd3ce-2d18-4e67-a9af-d0c89bad85a6",
-      "dateText": "May 28, 2026",
-      "durationText": "22 mins"
     }
   ]
 }
