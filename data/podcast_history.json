@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Eric Andre Returns Again",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "9e9bac87-d40d-49c3-b8c7-fdbf3227cec1",
+      "dateText": "Jun 29, 2026",
+      "durationText": "1h 0m"
+    },
+    {
+      "title": "EP231 | 你每天都在接觸的東西，正在傷害你 ft. 張家銘醫師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "e6c05e1f-e269-4431-9dd4-dd1bd1ebdf31",
+      "dateText": "Jun 29, 2026",
+      "durationText": "34 mins"
+    },
+    {
       "title": "EP204 | 符合這些條件，就可以裸辭 ft. Bryan 大人學",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -115,7 +131,7 @@
     },
     {
       "title": "EP00｜2022 十大科技趨勢",
-      "podcastTitle": "曼報",
+      "podcastTitle": "",
       "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
       "episodeUuid": "4ea4856e-5e59-46bf-a459-ad433f54b7e1",
       "dateText": "Jun 11, 2026",
@@ -224,22 +240,6 @@
       "episodeUuid": "73ebe794-313b-4708-aa1b-2944eec1375a",
       "dateText": "Jun 1, 2026",
       "durationText": "1h 3m"
-    },
-    {
-      "title": "EP119｜把喜歡的東西變成錢",
-      "podcastTitle": "曼報",
-      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
-      "episodeUuid": "35b47888-00a1-4bbe-a5d4-b40d6746407a",
-      "dateText": "Jan 20, 2026",
-      "durationText": "1h 23m"
-    },
-    {
-      "title": "Cry Fowl",
-      "podcastTitle": "Hyperfixed",
-      "podcastUuid": "37ab1040-3d4d-013d-0376-0affdaeeef4b",
-      "episodeUuid": "36608c1e-a466-4d71-b958-7c54b43c9a71",
-      "dateText": "Jan 29, 2026",
-      "durationText": "33 mins"
     }
   ]
 }
