@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "SP12｜電商的本質 feat. 李忠儒（戀家小舖）",
+      "podcastTitle": "曼報",
+      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
+      "episodeUuid": "ea58623d-5cc7-41e7-997f-36b1247c632a",
+      "dateText": "Jun 30, 2026",
+      "durationText": "1h 1m"
+    },
+    {
       "title": "Eric Andre Returns Again",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "2b2cd4bf-016e-4fed-bf04-875a369b503e",
       "dateText": "Jun 2, 2026",
       "durationText": "1h 39m"
-    },
-    {
-      "title": "Andrew Scott",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "73ebe794-313b-4708-aa1b-2944eec1375a",
-      "dateText": "Jun 1, 2026",
-      "durationText": "1h 3m"
     }
   ]
 }
