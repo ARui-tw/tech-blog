@@ -2,6 +2,38 @@
   "total": 100,
   "episodes": [
     {
+      "title": "2026地方大選直擊｜地方派系也有接班隱憂？彰化謝家姊弟內鬥、嘉義陳明文與林派呈現的派系難題",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "e14e82ee-87c2-4189-b2e8-06cb4c0132bb",
+      "dateText": "Jun 18, 2026",
+      "durationText": "54 mins"
+    },
+    {
+      "title": "The Bonering Conan",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "40c5e2dc-1554-4089-a250-64f15bbf19f7",
+      "dateText": "Jun 18, 2026",
+      "durationText": "19 mins"
+    },
+    {
+      "title": "Conan and Sona in Morocco",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "40675456-02bc-4056-aee2-9db3bb0cd274",
+      "dateText": "Jun 25, 2026",
+      "durationText": "25 mins"
+    },
+    {
+      "title": "今天來敲婉｜全球暖化也影響世界盃？原來運動員迎戰的不只對手，還有極端氣候下的抗熱力？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "f56a6019-d665-4aa4-a228-87f501fc9234",
+      "dateText": "Jul 1, 2026",
+      "durationText": "12 mins"
+    },
+    {
       "title": "SP12｜電商的本質 feat. 李忠儒（戀家小舖）",
       "podcastTitle": "曼報",
       "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
@@ -208,38 +240,6 @@
       "episodeUuid": "2bca87ce-cf73-4e7e-9521-3a090ff61710",
       "dateText": "Jun 2, 2026",
       "durationText": "25 mins"
-    },
-    {
-      "title": "2年等來無情的結局？家園政變尋求庇護遭拒，記者看見的緬甸人真實恐懼與台灣審查制度難題",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "c8dab04d-ea21-434c-b007-ccd57525661b",
-      "dateText": "Jun 4, 2026",
-      "durationText": "45 mins"
-    },
-    {
-      "title": "Oh Walt Whitman!",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "06a082ae-84dd-4f06-9fc5-95c232975a6c",
-      "dateText": "Jun 4, 2026",
-      "durationText": "24 mins"
-    },
-    {
-      "title": "PREMIUM UNLOCKED: The Fraud Hunter",
-      "podcastTitle": "Hyperfixed",
-      "podcastUuid": "37ab1040-3d4d-013d-0376-0affdaeeef4b",
-      "episodeUuid": "729b909a-b747-4881-ba8c-40e21c2739c3",
-      "dateText": "Jun 4, 2026",
-      "durationText": "41 mins"
-    },
-    {
-      "title": "Bayrob",
-      "podcastTitle": "Darknet Diaries",
-      "podcastUuid": "170a7610-948e-0135-9d21-5bb073f92b78",
-      "episodeUuid": "2b2cd4bf-016e-4fed-bf04-875a369b503e",
-      "dateText": "Jun 2, 2026",
-      "durationText": "1h 39m"
     }
   ]
 }
