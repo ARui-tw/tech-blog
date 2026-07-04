@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP129｜AI 搜尋（AI Search）的時代開啟了",
+      "podcastTitle": "曼報",
+      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
+      "episodeUuid": "e0e27d91-94a6-4a2b-b15d-40cc4b8b9051",
+      "dateText": "Jul 2, 2026",
+      "durationText": "1h 20m"
+    },
+    {
       "title": "Conan vs. Edibles Part III",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "d0e3c973-714e-4fc6-b0d2-a0292c9b1c27",
       "dateText": "Jun 8, 2026",
       "durationText": "1h 3m"
-    },
-    {
-      "title": "EP2 炎上行銷災難｜發文前先想想出木杉！社群翻車大賞：假黃仁勳看診、嫌病患口臭，放個屁全世界都聞到？",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "cfe6075e-b1e5-4178-b62d-21dcb5c42219",
-      "dateText": "Mar 28, 2026",
-      "durationText": "1h 8m"
     }
   ]
 }
