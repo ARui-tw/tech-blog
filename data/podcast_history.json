@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Technology Connections – State of the Workflow",
+      "podcastTitle": "Cortex",
+      "podcastUuid": "9a61baa0-ec2e-0132-1127-059c869cc4eb",
+      "episodeUuid": "fcb919e8-1390-4eaa-a85b-7992c86e91be",
+      "dateText": "Jan 15, 2026",
+      "durationText": "1h 4m"
+    },
+    {
       "title": "EP9 抽神經大解密｜斷針留在牙齒裡是醫療疏失?! 活髓治療是在開盲盒？破解網路謠言！ ft. 根管專科 馮聿先醫師",
       "podcastTitle": "牙科長頸鹿 | 只說真心話",
       "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
@@ -232,14 +240,6 @@
       "episodeUuid": "ba71bf9d-7762-4a4a-8065-6251cec9abc6",
       "dateText": "May 9, 2026",
       "durationText": "1h 2m"
-    },
-    {
-      "title": "EP3 生與死交界處的牙科｜那封徹底摧毀熱情的「無醫德」控訴信...熱血口外醫師心碎逃離大醫院 ft. 口外專科 陳宣妤醫師",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "2b86754a-94e7-4be6-b683-031f3f0c5be4",
-      "dateText": "Apr 11, 2026",
-      "durationText": "1h 4m"
     }
   ]
 }
