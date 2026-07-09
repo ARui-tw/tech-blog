@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "從台北街頭到中國伺服器，高德地圖有什麼資安風險？台灣個資法有什麼防衛缺口？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "6a933eb9-ef9b-4d4a-b021-d10e7796dc77",
+      "dateText": "Jul 8, 2026",
+      "durationText": "52 mins"
+    },
+    {
+      "title": "NSL",
+      "podcastTitle": "Darknet Diaries",
+      "podcastUuid": "170a7610-948e-0135-9d21-5bb073f92b78",
+      "episodeUuid": "522d6ca2-8a0b-4574-8d38-c55004b40511",
+      "dateText": "Jul 7, 2026",
+      "durationText": "1h 9m"
+    },
+    {
       "title": "Technology Connections – State of the Workflow",
       "podcastTitle": "Cortex",
       "podcastUuid": "9a61baa0-ec2e-0132-1127-059c869cc4eb",
@@ -224,22 +240,6 @@
       "episodeUuid": "4ea4856e-5e59-46bf-a459-ad433f54b7e1",
       "dateText": "Jun 11, 2026",
       "durationText": "1h 0m"
-    },
-    {
-      "title": "EP6 都是這樣長大的｜年輕醫師是否需要PGY？餐飲轉行牙助的生存血淚史大公開！ft. 資深牙助 Potato",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "602d874f-3acc-499a-9bbe-8a071349c315",
-      "dateText": "May 23, 2026",
-      "durationText": "1h 3m"
-    },
-    {
-      "title": "EP5 職場雷隊友｜當「歐洲貴族」同事請你喝次氯酸特調🤮，這波「雷之呼吸」真的會死人啊！傳奇實習生阿忠的「吃雞腿」哲學，教你用魔法對抗職場雷包！",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "ba71bf9d-7762-4a4a-8065-6251cec9abc6",
-      "dateText": "May 9, 2026",
-      "durationText": "1h 2m"
     }
   ]
 }
