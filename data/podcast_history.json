@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP130｜對自己的終局負責：預立醫療決定",
+      "podcastTitle": "曼報",
+      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
+      "episodeUuid": "f8ea25fc-7d77-44a9-858d-10058d8052f1",
+      "dateText": "Jul 9, 2026",
+      "durationText": "1h 20m"
+    },
+    {
       "title": "從台北街頭到中國伺服器，高德地圖有什麼資安風險？台灣個資法有什麼防衛缺口？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "f55c0a09-8faf-475c-8541-520ff92dc5c6",
       "dateText": "Jun 12, 2026",
       "durationText": "53 mins"
-    },
-    {
-      "title": "EP00｜2022 十大科技趨勢",
-      "podcastTitle": "",
-      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
-      "episodeUuid": "4ea4856e-5e59-46bf-a459-ad433f54b7e1",
-      "dateText": "Jun 11, 2026",
-      "durationText": "1h 0m"
     }
   ]
 }
