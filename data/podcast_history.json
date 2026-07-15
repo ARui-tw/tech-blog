@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "當拳擊愛好者走上擂台，誰替安全把關？記者參賽經驗揭風險、前國手分享教練保護原則",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "d03fa2b8-235e-4a41-961e-a1960d7cbba5",
+      "dateText": "Jul 10, 2026",
+      "durationText": "41 mins"
+    },
+    {
+      "title": "EP233 | 不知道自己的價值，就會活在這些困境裡 ft. 海蒂老師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "2362efa7-a889-463e-acd9-10631c49ee2c",
+      "dateText": "Jul 13, 2026",
+      "durationText": "1h 1m"
+    },
+    {
       "title": "Mick Jagger",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -224,22 +240,6 @@
       "episodeUuid": "8cfa4237-2fa6-4b95-b389-cdf7683394ba",
       "dateText": "Dec 18, 2025",
       "durationText": "46 mins"
-    },
-    {
-      "title": "EP7 牙醫實習生存指南｜只要我不尷尬，尷尬的就是別人 ft. 咩咩&阿容",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "5360833e-e8cb-4780-a183-88f6fba5c4f5",
-      "dateText": "Jun 6, 2026",
-      "durationText": "1h 5m"
-    },
-    {
-      "title": "Sword Play",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "feb5a3f3-d80d-44b0-a0a1-82dea3ea984d",
-      "dateText": "Jun 11, 2026",
-      "durationText": "20 mins"
     }
   ]
 }
