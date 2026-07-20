@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP200 | 不敢接刀代表你沒看清投資的本質 ft. 闕又上",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "8c3e17cf-daea-4f6a-b89c-3d1db6c45282",
+      "dateText": "Nov 10, 2025",
+      "durationText": "54 mins"
+    },
+    {
       "title": "EP222 | 「我有問題嗎？」答案可能不在你身上 ft. 留佩萱博士",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "409f1959-66a5-463b-b64c-6ab277555dc3",
       "dateText": "Jun 16, 2026",
       "durationText": "46 mins"
-    },
-    {
-      "title": "Atsuko Okatsuka",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "c4f4885b-b541-4df7-9298-957c93c11b5e",
-      "dateText": "Jun 15, 2026",
-      "durationText": "1h 5m"
     }
   ]
 }
