@@ -2,6 +2,30 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Presenting: Panic World - The Disturbing World of Cute Cat AI with Panic World",
+      "podcastTitle": "Hyperfixed",
+      "podcastUuid": "37ab1040-3d4d-013d-0376-0affdaeeef4b",
+      "episodeUuid": "7ef3745d-d50b-44ea-87f6-d0441c40095e",
+      "dateText": "Jul 16, 2026",
+      "durationText": "1h 15m"
+    },
+    {
+      "title": "Conan Unboxes “Toy Story” Merch",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "f7172770-83d9-4966-b1fb-4d7a96cd4c57",
+      "dateText": "Jul 16, 2026",
+      "durationText": "21 mins"
+    },
+    {
+      "title": "EP10 牙醫系六年到底在學什麼？大體解剖、技工地獄與沒人教的溝通課 ft. 馮聿先",
+      "podcastTitle": "牙科長頸鹿 | 只說真心話",
+      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
+      "episodeUuid": "1af40801-9402-4837-805a-1d99bd0824e8",
+      "dateText": "Jul 18, 2026",
+      "durationText": "59 mins"
+    },
+    {
       "title": "EP200 | 不敢接刀代表你沒看清投資的本質 ft. 闕又上",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -216,30 +240,6 @@
       "episodeUuid": "8b008503-ce42-4dac-8c26-636418f6e2d9",
       "dateText": "Jan 16, 2026",
       "durationText": "50 mins"
-    },
-    {
-      "title": "Josh Groban",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "9be7c0f8-d8f4-469c-9547-73514b7b12e1",
-      "dateText": "Jun 22, 2026",
-      "durationText": "1h 3m"
-    },
-    {
-      "title": "EP229 | 我們該拿性犯罪者怎麼辦？ ft. 戴伸峰教授",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "28078bda-418a-44b7-a94f-2bd115f03358",
-      "dateText": "Jun 15, 2026",
-      "durationText": "1h 25m"
-    },
-    {
-      "title": "2026地方大選直擊｜花蓮「傅家王朝」如何崛起、誰來接班？解析傅崐萁夫婦共治17年的人脈網絡",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "409f1959-66a5-463b-b64c-6ab277555dc3",
-      "dateText": "Jun 16, 2026",
-      "durationText": "46 mins"
     }
   ]
 }
