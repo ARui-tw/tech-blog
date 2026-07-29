@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "The Workflow Behind Track Star*, with Jack Coyne",
+      "podcastTitle": "Cortex",
+      "podcastUuid": "9a61baa0-ec2e-0132-1127-059c869cc4eb",
+      "episodeUuid": "a22b6619-1804-4880-8725-fa3a74406afd",
+      "dateText": "Jul 22, 2026",
+      "durationText": "55 mins"
+    },
+    {
+      "title": "Leslie Jones Returns",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "297aa69d-36dd-4ef7-9a75-8d22e7585a78",
+      "dateText": "Jul 27, 2026",
+      "durationText": "1h 5m"
+    },
+    {
       "title": "EP235 | 為什麼我們感受不到自己壓力很大 ft. 袁瑋醫師",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -224,22 +240,6 @@
       "episodeUuid": "e6c05e1f-e269-4431-9dd4-dd1bd1ebdf31",
       "dateText": "Jun 29, 2026",
       "durationText": "34 mins"
-    },
-    {
-      "title": "EP204 | 符合這些條件，就可以裸辭 ft. Bryan 大人學",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "71e52a6d-94c4-4f5d-b9a1-874c8cd7f26f",
-      "dateText": "Dec 15, 2025",
-      "durationText": "53 mins"
-    },
-    {
-      "title": "EP202 | 諮商心理師：人突然開朗也可能是自殺前訊號 ft. 蘇予昕",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "83ba2c54-98eb-432f-b80d-c38017149134",
-      "dateText": "Dec 1, 2025",
-      "durationText": "1h 11m"
     }
   ]
 }
