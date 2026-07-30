@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "保護令有時間差、求助後風險更高，又一起親密關係暴力悲劇後，台灣如何補上安全網缺口？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "15d0b173-8daf-4fe3-9f77-970221377aa4",
+      "dateText": "Jul 22, 2026",
+      "durationText": "51 mins"
+    },
+    {
       "title": "The Workflow Behind Track Star*, with Jack Coyne",
       "podcastTitle": "Cortex",
       "podcastUuid": "9a61baa0-ec2e-0132-1127-059c869cc4eb",
@@ -232,14 +240,6 @@
       "episodeUuid": "9e9bac87-d40d-49c3-b8c7-fdbf3227cec1",
       "dateText": "Jun 29, 2026",
       "durationText": "1h 0m"
-    },
-    {
-      "title": "EP231 | 你每天都在接觸的東西，正在傷害你 ft. 張家銘醫師",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "e6c05e1f-e269-4431-9dd4-dd1bd1ebdf31",
-      "dateText": "Jun 29, 2026",
-      "durationText": "34 mins"
     }
   ]
 }
