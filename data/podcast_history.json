@@ -2,6 +2,38 @@
   "total": 100,
   "episodes": [
     {
+      "title": "The Master of Mazes vs The Big Green Monster",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "c01a8ad8-626e-47e7-89fb-c59e720b7ecc",
+      "dateText": "Jul 30, 2026",
+      "durationText": "31 mins"
+    },
+    {
+      "title": "Upsetting the Apple Cart",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "d185c201-6194-45f9-bd2f-0a7a08f09e15",
+      "dateText": "Oct 2, 2025",
+      "durationText": "34 mins"
+    },
+    {
+      "title": "Thanks for One Year of Supporting Hyperfixed!",
+      "podcastTitle": "",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "6b029835-deb7-4df6-896e-8914e84613c6",
+      "dateText": "Aug 1, 2026",
+      "durationText": "0 mins"
+    },
+    {
+      "title": "中聯油脂案暴露的食安缺口：油品為何會有致癌物？修法有對症下藥嗎？自煮與外食族的飲食注意事項？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "4c7d9bff-42a7-4206-b514-03e84d853226",
+      "dateText": "Jul 31, 2026",
+      "durationText": "43 mins"
+    },
+    {
       "title": "從基隆油汙到新竹河川，我們喝的水為什麼要從源頭保護？劃設保護區、設淨水場就可以了嗎？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -208,38 +240,6 @@
       "episodeUuid": "e14e82ee-87c2-4189-b2e8-06cb4c0132bb",
       "dateText": "Jun 18, 2026",
       "durationText": "54 mins"
-    },
-    {
-      "title": "The Bonering Conan",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "40c5e2dc-1554-4089-a250-64f15bbf19f7",
-      "dateText": "Jun 18, 2026",
-      "durationText": "19 mins"
-    },
-    {
-      "title": "Conan and Sona in Morocco",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "40675456-02bc-4056-aee2-9db3bb0cd274",
-      "dateText": "Jun 25, 2026",
-      "durationText": "25 mins"
-    },
-    {
-      "title": "今天來敲婉｜全球暖化也影響世界盃？原來運動員迎戰的不只對手，還有極端氣候下的抗熱力？",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "f56a6019-d665-4aa4-a228-87f501fc9234",
-      "dateText": "Jul 1, 2026",
-      "durationText": "12 mins"
-    },
-    {
-      "title": "SP12｜電商的本質 feat. 李忠儒（戀家小舖）",
-      "podcastTitle": "曼報",
-      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
-      "episodeUuid": "ea58623d-5cc7-41e7-997f-36b1247c632a",
-      "dateText": "Jun 30, 2026",
-      "durationText": "1h 1m"
     }
   ]
 }
