@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP236 | 為什麼別人用 AI 產量是你的 100 倍？ft. 瓦基",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "5860534c-fecc-496d-8d05-5e5c7f2dc11a",
+      "dateText": "Aug 3, 2026",
+      "durationText": "51 mins"
+    },
+    {
       "title": "The Master of Mazes vs The Big Green Monster",
       "podcastTitle": "Hyperfixed | Premium",
       "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
@@ -232,14 +240,6 @@
       "episodeUuid": "9542a3f1-d218-455b-bfc2-95c007918ef2",
       "dateText": "Jul 2, 2026",
       "durationText": "31 mins"
-    },
-    {
-      "title": "2026地方大選直擊｜地方派系也有接班隱憂？彰化謝家姊弟內鬥、嘉義陳明文與林派呈現的派系難題",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "e14e82ee-87c2-4189-b2e8-06cb4c0132bb",
-      "dateText": "Jun 18, 2026",
-      "durationText": "54 mins"
     }
   ]
 }
