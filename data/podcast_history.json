@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP237 | 理財策略不應該是用年齡區分 ft. 十方",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "2c62f464-ae3d-4664-8d46-49f070bba59a",
+      "dateText": "Aug 10, 2026",
+      "durationText": "1h 9m"
+    },
+    {
       "title": "Greta Lee",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "d03fa2b8-235e-4a41-961e-a1960d7cbba5",
       "dateText": "Jul 10, 2026",
       "durationText": "41 mins"
-    },
-    {
-      "title": "EP233 | 不知道自己的價值，就會活在這些困境裡 ft. 海蒂老師",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "2362efa7-a889-463e-acd9-10631c49ee2c",
-      "dateText": "Jul 13, 2026",
-      "durationText": "1h 1m"
     }
   ]
 }
