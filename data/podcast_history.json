@@ -2,28 +2,36 @@
   "total": 100,
   "episodes": [
     {
+      "title": "LOW - Trailer",
+      "podcastTitle": "Darknet Diaries",
+      "podcastUuid": "170a7610-948e-0135-9d21-5bb073f92b78",
+      "episodeUuid": "91580224-a489-4309-9d1d-043c777f77dc",
+      "dateText": "Aug 6, 2026",
+      "durationText": "2 mins"
+    },
+    {
+      "title": "Bright Ideas",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "c3202349-5557-4b76-b8d3-2473ba1966dd",
+      "dateText": "Aug 6, 2026",
+      "durationText": "23 mins"
+    },
+    {
+      "title": "ReTell All",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "cbbc5cb7-3e98-4ce0-8e82-7463633e65ca",
+      "dateText": "Aug 13, 2026",
+      "durationText": "30 mins"
+    },
+    {
       "title": "Summer S’pouses Episode 3: Tak Boroyan",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
       "episodeUuid": "9b3d6884-bf71-4c27-b6bd-ea1948025c5c",
       "dateText": "Aug 13, 2026",
       "durationText": "24 mins"
-    },
-    {
-      "title": "儘管世界爛透了｜害死「焚證者們」的西班牙夢：休達危機背後，被錯讀的移民政策與摩洛哥青年絕望",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "b832648a-5bc3-4f5b-a268-93b36f3a759c",
-      "dateText": "Aug 12, 2026",
-      "durationText": "45 mins"
-    },
-    {
-      "title": "Summer S’pouses Episode 2: Amanda Lund",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "b49e728f-1a28-4f5f-83ae-9b220b7821e7",
-      "dateText": "Aug 6, 2026",
-      "durationText": "30 mins"
     },
     {
       "title": "EP237 | 理財策略不應該是用年齡區分 ft. 十方",
@@ -232,14 +240,6 @@
       "episodeUuid": "7ef3745d-d50b-44ea-87f6-d0441c40095e",
       "dateText": "Jul 16, 2026",
       "durationText": "1h 15m"
-    },
-    {
-      "title": "EP10 牙醫系六年到底在學什麼？大體解剖、技工地獄與沒人教的溝通課 ft. 馮聿先",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "1af40801-9402-4837-805a-1d99bd0824e8",
-      "dateText": "Jul 18, 2026",
-      "durationText": "59 mins"
     }
   ]
 }
