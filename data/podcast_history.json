@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Gillian Anderson",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "b73e07fa-0dc6-4458-8aed-e0db9a635211",
+      "dateText": "Aug 17, 2026",
+      "durationText": "1h 4m"
+    },
+    {
       "title": "Summer S’pouses Episode 1",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "0f103e04-c8e0-4efa-b8a5-89aecb6c2108",
       "dateText": "Jul 21, 2026",
       "durationText": "32 mins"
-    },
-    {
-      "title": "EP131｜收購老公司收到 IPO：Bending Spoons",
-      "podcastTitle": "曼報",
-      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
-      "episodeUuid": "2563e63f-0621-45fd-8e03-b486dfaf523e",
-      "dateText": "Jul 17, 2026",
-      "durationText": "1h 23m"
     }
   ]
 }
