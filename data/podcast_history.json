@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP238 | 親子溝通的關鍵，不是溝通 ft. 郭葉珍教授",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "222d291a-406b-4e98-a9a3-7faf1fb11cf9",
+      "dateText": "Aug 17, 2026",
+      "durationText": "53 mins"
+    },
+    {
       "title": "Gillian Anderson",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "4a67b7d4-de13-45fc-bdfb-fc3f9f78e2eb",
       "dateText": "Jul 27, 2026",
       "durationText": "39 mins"
-    },
-    {
-      "title": "EP94｜週末大補眠真的能還「睡眠債」？破解深層睡眠與夢境重整大腦的奧秘 🧠💤 ft. 台大醫院 陳錫中教授",
-      "podcastTitle": "台大醫院站到了",
-      "podcastUuid": "c2771650-e6fa-013b-f4e0-0acc26574db2",
-      "episodeUuid": "0f103e04-c8e0-4efa-b8a5-89aecb6c2108",
-      "dateText": "Jul 21, 2026",
-      "durationText": "32 mins"
     }
   ]
 }
