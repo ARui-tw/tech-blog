@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "\"Round Them Up and Burn Them\" and Other Adrian Fisher Stories",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "fda99fe9-5d3a-463c-8413-eae979de7d23",
+      "dateText": "Aug 20, 2026",
+      "durationText": "19 mins"
+    },
+    {
+      "title": "Summer S’pouses Episode 4: Liza Powel O'Brien",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "53b69d5b-108e-4a8c-99ab-dbc11de1890c",
+      "dateText": "Aug 20, 2026",
+      "durationText": "21 mins"
+    },
+    {
       "title": "當陪伴能議價：在Sugar Dating的遊戲規則下，誰承擔了風險，誰又真正掌握主導權？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -224,22 +240,6 @@
       "episodeUuid": "e4955605-07b6-4347-b333-0942fa249a04",
       "dateText": "Jul 29, 2026",
       "durationText": "46 mins"
-    },
-    {
-      "title": "保護令有時間差、求助後風險更高，又一起親密關係暴力悲劇後，台灣如何補上安全網缺口？",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "15d0b173-8daf-4fe3-9f77-970221377aa4",
-      "dateText": "Jul 22, 2026",
-      "durationText": "51 mins"
-    },
-    {
-      "title": "The Workflow Behind Track Star*, with Jack Coyne",
-      "podcastTitle": "Cortex",
-      "podcastUuid": "9a61baa0-ec2e-0132-1127-059c869cc4eb",
-      "episodeUuid": "a22b6619-1804-4880-8725-fa3a74406afd",
-      "dateText": "Jul 22, 2026",
-      "durationText": "55 mins"
     }
   ]
 }
