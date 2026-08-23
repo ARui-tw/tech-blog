@@ -18,7 +18,7 @@
           </a>{{- "" -}}
           <div style="display: flex; flex-direction: column; justify-content: center; gap: 0.25rem; min-width: 0; flex: 1; margin: 0; padding: 0;">{{- "" -}}
             <h4 class="font-bold text-neutral-800 dark:text-neutral-200" style="margin: 0; padding: 0; font-size: 0.95rem; line-height: 1.2rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{- "" -}}
-              <a href="https://play.pocketcasts.com/podcasts/{{ .podcastUuid }}/episodes/{{ .episodeUuid }}" target="_blank" rel="noopener noreferrer" class="hover:underline" style="text-decoration: none; color: inherit; margin: 0; padding: 0;" title="{{ .title }}">{{ .title }}</a>{{- "" -}}
+              <a href="https://pocketcasts.com/podcast/{{ .podcastTitle | urlize }}/{{ .podcastUuid }}/{{ .title | urlize }}/{{ .episodeUuid }}" target="_blank" rel="noopener noreferrer" class="hover:underline" style="text-decoration: none; color: inherit; margin: 0; padding: 0;" title="{{ .title }}">{{ .title }}</a>{{- "" -}}
             </h4>{{- "" -}}
             <p class="text-neutral-500 dark:text-neutral-400" style="margin: 0; padding: 0; font-size: 0.8rem; line-height: 1.1rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{- "" -}}
               <a href="https://play.pocketcasts.com/podcasts/{{ .podcastUuid }}" target="_blank" rel="noopener noreferrer" class="hover:underline" style="text-decoration: none; color: inherit; margin: 0; padding: 0;">{{ .podcastTitle }}</a>{{- "" -}}
