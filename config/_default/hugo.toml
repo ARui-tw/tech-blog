@@ -5,6 +5,7 @@
 theme = "blowfish"
 baseURL = "https://tech.arui.dev/"
 defaultContentLanguage = "tw"
+timeZone = "Asia/Taipei"
 
 enableRobotsTXT = true
 # paginate = 10

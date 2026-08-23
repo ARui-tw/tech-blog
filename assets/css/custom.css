@@ -15,3 +15,25 @@ html {
     font-family: 'Iansui', sans-serif;
     /* font-family: Iansui; */
 }
+
+.prose ul > li,
+.prose ol > li {
+    margin-top: 0.1em !important;
+    margin-bottom: 0.1em !important;
+}
+
+.prose ul > li p,
+.prose ol > li p {
+    margin-top: 0.25em !important;
+    margin-bottom: 0.25em !important;
+}
+
+.prose ul > li > p:first-child,
+.prose ol > li > p:first-child {
+    margin-top: 0.25em !important;
+}
+
+.prose ul > li > p:last-child,
+.prose ol > li > p:last-child {
+    margin-bottom: 0.25em !important;
+}
