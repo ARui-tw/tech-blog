@@ -38,8 +38,8 @@ mainSections = ["posts"]
 
 [article]
   showDate = true
-  #showViews = true
-  #showLikes = true
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = false
   showHero = false
@@ -78,13 +78,13 @@ mainSections = ["posts"]
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyD8ZFVVFb-ogbPyMg5693IixaqIo17LluA"
+  authDomain = "tech-blog-f3e12.firebaseapp.com"
+  projectId = "tech-blog-f3e12"
+  storageBucket = "tech-blog-f3e12.firebasestorage.app"
+  messagingSenderId = "483220942957"
+  appId = "1:483220942957:web:ad814daf7d707942e44f64"
+  measurementId = "G-ZDQGSKBCJ8"
 
 [fathomAnalytics]
   # site = "ABC12345"
