@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP239 | 很多父母陪孩子就診，才發現自己也有 ADHD ft. 高淑芬醫師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "7839734b-3a91-4493-a324-dbb220018b5f",
+      "dateText": "Aug 24, 2026",
+      "durationText": "1h 5m"
+    },
+    {
+      "title": "John Cena",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "0deb61d4-7db3-45d8-8b38-03e54ba3fe09",
+      "dateText": "Aug 24, 2026",
+      "durationText": "1h 9m"
+    },
+    {
       "title": "EP234 | 台灣最驕傲的健保，正在消耗最需要的醫療 ft. 田知學醫師",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -224,22 +240,6 @@
       "episodeUuid": "c01a8ad8-626e-47e7-89fb-c59e720b7ecc",
       "dateText": "Jul 30, 2026",
       "durationText": "31 mins"
-    },
-    {
-      "title": "Upsetting the Apple Cart",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "d185c201-6194-45f9-bd2f-0a7a08f09e15",
-      "dateText": "Oct 2, 2025",
-      "durationText": "34 mins"
-    },
-    {
-      "title": "Thanks for One Year of Supporting Hyperfixed!",
-      "podcastTitle": "",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "6b029835-deb7-4df6-896e-8914e84613c6",
-      "dateText": "Aug 1, 2026",
-      "durationText": "0 mins"
     }
   ]
 }
