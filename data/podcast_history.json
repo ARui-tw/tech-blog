@@ -2,12 +2,12 @@
   "total": 100,
   "episodes": [
     {
-      "title": "EP239 | 很多父母陪孩子就診，才發現自己也有 ADHD ft. 高淑芬醫師",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "7839734b-3a91-4493-a324-dbb220018b5f",
-      "dateText": "Aug 24, 2026",
-      "durationText": "1h 5m"
+      "title": "原來綠色青色都是Green！台灣師資在澳洲教華語，不只是與簡體主流對決，更以「文化包容」突圍市場",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "61effb2d-917e-445d-9b29-ac8797c8772c",
+      "dateText": "Aug 26, 2026",
+      "durationText": "27 mins"
     },
     {
       "title": "John Cena",
@@ -16,6 +16,14 @@
       "episodeUuid": "0deb61d4-7db3-45d8-8b38-03e54ba3fe09",
       "dateText": "Aug 24, 2026",
       "durationText": "1h 9m"
+    },
+    {
+      "title": "EP239 | 很多父母陪孩子就診，才發現自己也有 ADHD ft. 高淑芬醫師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "7839734b-3a91-4493-a324-dbb220018b5f",
+      "dateText": "Aug 24, 2026",
+      "durationText": "1h 5m"
     },
     {
       "title": "EP234 | 台灣最驕傲的健保，正在消耗最需要的醫療 ft. 田知學醫師",
@@ -232,14 +240,6 @@
       "episodeUuid": "5860534c-fecc-496d-8d05-5e5c7f2dc11a",
       "dateText": "Aug 3, 2026",
       "durationText": "51 mins"
-    },
-    {
-      "title": "The Master of Mazes vs The Big Green Monster",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "c01a8ad8-626e-47e7-89fb-c59e720b7ecc",
-      "dateText": "Jul 30, 2026",
-      "durationText": "31 mins"
     }
   ]
 }
