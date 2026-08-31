@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Captive Audience",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "75c9bd95-ed13-48c9-86e2-d0f6194c1de8",
+      "dateText": "Aug 27, 2026",
+      "durationText": "29 mins"
+    },
+    {
       "title": "原來綠色青色都是Green！台灣師資在澳洲教華語，不只是與簡體主流對決，更以「文化包容」突圍市場",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "b69b2fe9-9d48-40f1-b1fd-1f03f4fb5a22",
       "dateText": "Aug 3, 2026",
       "durationText": "1h 3m"
-    },
-    {
-      "title": "EP236 | 秘技揭露：如何用 AI 贏在成功起跑線 ft. 瓦基",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "5860534c-fecc-496d-8d05-5e5c7f2dc11a",
-      "dateText": "Aug 3, 2026",
-      "durationText": "51 mins"
     }
   ]
 }
