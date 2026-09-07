@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "極端熱浪撼動的德國日常：萬人喪命迎來德國「冷氣元年」？乾旱讓河流見底浮出殘酷戰爭遺跡？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "3043ce82-1c75-432f-9c9b-7bfb4efd9371",
+      "dateText": "Sep 3, 2026",
+      "durationText": "28 mins"
+    },
+    {
+      "title": "【LNG】2026AUG 冰冰冰冰蹦 禿勁風冷傲退奧客",
+      "podcastTitle": "LNG 實況存檔",
+      "podcastUuid": "cf14afc0-7446-013e-dd5d-02e76e4f8b0f",
+      "episodeUuid": "941687a0-ab5e-47d0-9d3e-5bf3581cf2de",
+      "dateText": "Aug 29, 2026",
+      "durationText": "3h 18m"
+    },
+    {
       "title": "今天來敲婉｜冰河崩、黑色洪水從天降，尼泊爾山洪是天災或人禍？從跨國預警到救災有哪些爭議？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -224,22 +240,6 @@
       "episodeUuid": "2d47318e-7a89-4d7e-890f-21d994488320",
       "dateText": "Sep 12, 2022",
       "durationText": "56 mins"
-    },
-    {
-      "title": "Grumpy Santa",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "06f5a7b8-c803-4de9-b6a0-475a70167d25",
-      "dateText": "Dec 25, 2025",
-      "durationText": "22 mins"
-    },
-    {
-      "title": "臥底直擊跨境器官移植供應鏈（上）：採訪前先想「逃跑計畫」？首次用針孔密錄器！記者經歷的風險與第一手發現",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "8ef4fce0-6260-4da9-9ec9-6f26efe4dc3a",
-      "dateText": "Aug 5, 2026",
-      "durationText": "41 mins"
     }
   ]
 }
