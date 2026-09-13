@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP241 | 網路公審正在讓我們變得更不道德 ft. 王榮麟教授",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "e4ab4512-e4e7-4bbd-9570-a53e3aa9e7e8",
+      "dateText": "Sep 7, 2026",
+      "durationText": "1h 7m"
+    },
+    {
       "title": "Comedy Crimes with Andy Daly",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "2c62f464-ae3d-4664-8d46-49f070bba59a",
       "dateText": "Aug 10, 2026",
       "durationText": "1h 9m"
-    },
-    {
-      "title": "Greta Lee",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "34026c1d-44a7-408f-bede-1c15fd6ee8cc",
-      "dateText": "Aug 10, 2026",
-      "durationText": "1h 8m"
     }
   ]
 }
