@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "A Conversation about Prison Telecommunication with Mike Wessler",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "ab54efa2-e0da-44a6-bc40-ded98cf51ace",
+      "dateText": "Sep 3, 2026",
+      "durationText": "29 mins"
+    },
+    {
+      "title": "今天來敲婉｜在沒有地圖的復元路上，性創傷倖存者與重要他人，該如何同行？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "b153f0e8-a153-472d-94f2-158987d483ff",
+      "dateText": "Sep 11, 2026",
+      "durationText": "12 mins"
+    },
+    {
       "title": "EP241 | 網路公審正在讓我們變得更不道德 ft. 王榮麟教授",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -224,22 +240,6 @@
       "episodeUuid": "cbbc5cb7-3e98-4ce0-8e82-7463633e65ca",
       "dateText": "Aug 13, 2026",
       "durationText": "30 mins"
-    },
-    {
-      "title": "Summer S’pouses Episode 3: Tak Boroyan",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "9b3d6884-bf71-4c27-b6bd-ea1948025c5c",
-      "dateText": "Aug 13, 2026",
-      "durationText": "24 mins"
-    },
-    {
-      "title": "EP237 | 理財策略不應該是用年齡區分 ft. 十方",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "2c62f464-ae3d-4664-8d46-49f070bba59a",
-      "dateText": "Aug 10, 2026",
-      "durationText": "1h 9m"
     }
   ]
 }
