@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Taylor Tomlinson Returns Again",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "8a1b7c9c-6bae-4230-b917-506ded251558",
+      "dateText": "Sep 14, 2026",
+      "durationText": "1h 4m"
+    },
+    {
       "title": "A Conversation about Prison Telecommunication with Mike Wessler",
       "podcastTitle": "Hyperfixed | Premium",
       "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
@@ -232,14 +240,6 @@
       "episodeUuid": "c3202349-5557-4b76-b8d3-2473ba1966dd",
       "dateText": "Aug 6, 2026",
       "durationText": "23 mins"
-    },
-    {
-      "title": "ReTell All",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "cbbc5cb7-3e98-4ce0-8e82-7463633e65ca",
-      "dateText": "Aug 13, 2026",
-      "durationText": "30 mins"
     }
   ]
 }
