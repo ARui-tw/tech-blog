@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP242 | 怎麼讓房仲親口說出你要的數字 ft. 陳侯勳 談判大叔",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "0b07262f-a9b2-42bb-81bf-47539d6217e3",
+      "dateText": "Sep 14, 2026",
+      "durationText": "1h 1m"
+    },
+    {
       "title": "Taylor Tomlinson Returns Again",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "91580224-a489-4309-9d1d-043c777f77dc",
       "dateText": "Aug 6, 2026",
       "durationText": "2 mins"
-    },
-    {
-      "title": "Bright Ideas",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "c3202349-5557-4b76-b8d3-2473ba1966dd",
-      "dateText": "Aug 6, 2026",
-      "durationText": "23 mins"
     }
   ]
 }
