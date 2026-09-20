@@ -2,6 +2,30 @@
   "total": 100,
   "episodes": [
     {
+      "title": "The Body Politic Part I",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "b6398103-c71e-4d54-961e-bd09f620d059",
+      "dateText": "Sep 17, 2026",
+      "durationText": "24 mins"
+    },
+    {
+      "title": "高呼修復民主，為何票投極右翼？解析德國AfD地方勝選：選民焦慮、東德情懷與防火牆危機",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "85965b6d-ebef-4ef5-92a6-bda78fb277e9",
+      "dateText": "Sep 18, 2026",
+      "durationText": "34 mins"
+    },
+    {
+      "title": "What Does a Sandworm Sound Like?",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "e0a42895-2f64-424a-9b57-59df3ee1effe",
+      "dateText": "Sep 17, 2026",
+      "durationText": "25 mins"
+    },
+    {
       "title": "EP240 | 聽到這些詞，就知道是智商稅 ft. 徐榜奎博士",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -216,30 +240,6 @@
       "episodeUuid": "222d291a-406b-4e98-a9a3-7faf1fb11cf9",
       "dateText": "Aug 17, 2026",
       "durationText": "53 mins"
-    },
-    {
-      "title": "Gillian Anderson",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "b73e07fa-0dc6-4458-8aed-e0db9a635211",
-      "dateText": "Aug 17, 2026",
-      "durationText": "1h 4m"
-    },
-    {
-      "title": "Summer S’pouses Episode 1",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "65822057-22d3-4326-b0d3-1f7c2862afc8",
-      "dateText": "Jul 30, 2026",
-      "durationText": "23 mins"
-    },
-    {
-      "title": "港人來台被跟蹤、開拳館遭潑漆，台灣徵信業也成在地協力者？拆解跨國鎮壓產業鏈、心理戰與執法困境",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "602c29c6-6463-47d1-9364-1f82447a9127",
-      "dateText": "Aug 14, 2026",
-      "durationText": "47 mins"
     }
   ]
 }
