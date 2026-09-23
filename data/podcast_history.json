@@ -2,6 +2,30 @@
   "total": 100,
   "episodes": [
     {
+      "title": "改寫教科書！台灣沙利竇邁藥害者現身：退休教授返台找同為受害「沙兒」，記者啟動橫跨半世紀尋人任務",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "63d27f7c-1419-4813-adc7-00e945c6cd45",
+      "dateText": "Sep 22, 2026",
+      "durationText": "53 mins"
+    },
+    {
+      "title": "EP243 | 兒童虐待比你想像的嚴重多了 ft. 呂立醫師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "68b79d82-5afe-4b27-93ad-8d6e4efa3a63",
+      "dateText": "Sep 21, 2026",
+      "durationText": "1h 21m"
+    },
+    {
+      "title": "Andy Daly Returns",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "e15f1d3e-4fda-43ba-9b3e-ab68f37dccfe",
+      "dateText": "Aug 31, 2026",
+      "durationText": "1h 8m"
+    },
+    {
       "title": "The Body Politic Part I",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -216,30 +240,6 @@
       "episodeUuid": "53b69d5b-108e-4a8c-99ab-dbc11de1890c",
       "dateText": "Aug 20, 2026",
       "durationText": "21 mins"
-    },
-    {
-      "title": "當陪伴能議價：在Sugar Dating的遊戲規則下，誰承擔了風險，誰又真正掌握主導權？",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "bdccf985-bc66-4b14-8426-0be451b0516c",
-      "dateText": "Aug 19, 2026",
-      "durationText": "46 mins"
-    },
-    {
-      "title": "EP12 假牙怎樣才算做好？｜密合、材質、壽命與缺牙選擇 ft. 咩咩",
-      "podcastTitle": "牙科長頸鹿 | 只說真心話",
-      "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
-      "episodeUuid": "e3eb4b41-4505-49d4-9cca-59769452022c",
-      "dateText": "Aug 15, 2026",
-      "durationText": "1h 12m"
-    },
-    {
-      "title": "EP238 | 親子溝通的關鍵，不是溝通 ft. 郭葉珍教授",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "222d291a-406b-4e98-a9a3-7faf1fb11cf9",
-      "dateText": "Aug 17, 2026",
-      "durationText": "53 mins"
     }
   ]
 }
