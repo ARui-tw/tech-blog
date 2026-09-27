@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "儘管世界爛透了｜世界盃愈踢愈長？維德角黑馬、哈蘭德迷因、99名球員出生法國，多視角看懂足球全球化",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "de250ce4-4c62-4e46-8cac-3c6991bb4823",
+      "dateText": "Jul 15, 2026",
+      "durationText": "56 mins"
+    },
+    {
       "title": "改寫教科書！台灣沙利竇邁藥害者現身：退休教授返台找同為受害「沙兒」，記者啟動橫跨半世紀尋人任務",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "fda99fe9-5d3a-463c-8413-eae979de7d23",
       "dateText": "Aug 20, 2026",
       "durationText": "19 mins"
-    },
-    {
-      "title": "Summer S’pouses Episode 4: Liza Powel O'Brien",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "53b69d5b-108e-4a8c-99ab-dbc11de1890c",
-      "dateText": "Aug 20, 2026",
-      "durationText": "21 mins"
     }
   ]
 }
