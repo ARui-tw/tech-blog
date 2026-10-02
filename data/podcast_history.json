@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP244 | 討好型人格不是善良，是自我價值低 ft. 阿滴",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "ad71c448-f10d-4868-8c4e-256628b10434",
+      "dateText": "Sep 28, 2026",
+      "durationText": "1h 6m"
+    },
+    {
       "title": "今天來敲婉｜馬太鞍洪災一年後，孩子的傷，如何靠部落與專業的力量平復？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "61effb2d-917e-445d-9b29-ac8797c8772c",
       "dateText": "Aug 26, 2026",
       "durationText": "27 mins"
-    },
-    {
-      "title": "John Cena",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "0deb61d4-7db3-45d8-8b38-03e54ba3fe09",
-      "dateText": "Aug 24, 2026",
-      "durationText": "1h 9m"
     }
   ]
 }
