@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP232 | 經前症候群不是忍一忍就好了 ft. 陳保仁醫師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "54d724f8-2ab6-46c3-8cb5-06b36e9b308b",
+      "dateText": "Jul 6, 2026",
+      "durationText": "1h 0m"
+    },
+    {
       "title": "EP244 | 討好型人格不是善良，是自我價值低 ft. 阿滴",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "75c9bd95-ed13-48c9-86e2-d0f6194c1de8",
       "dateText": "Aug 27, 2026",
       "durationText": "29 mins"
-    },
-    {
-      "title": "原來綠色青色都是Green！台灣師資在澳洲教華語，不只是與簡體主流對決，更以「文化包容」突圍市場",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "61effb2d-917e-445d-9b29-ac8797c8772c",
-      "dateText": "Aug 26, 2026",
-      "durationText": "27 mins"
     }
   ]
 }
