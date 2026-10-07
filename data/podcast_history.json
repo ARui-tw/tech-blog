@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Owen Wilson",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "989a375d-f7e9-4afb-97a5-2bf6ca7b9d66",
+      "dateText": "Oct 5, 2026",
+      "durationText": "1h 3m"
+    },
+    {
       "title": "EP232 | 經前症候群不是忍一忍就好了 ft. 陳保仁醫師",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "b2680029-982f-466c-b6c9-a58b79937066",
       "dateText": "Aug 27, 2026",
       "durationText": "25 mins"
-    },
-    {
-      "title": "Captive Audience",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "75c9bd95-ed13-48c9-86e2-d0f6194c1de8",
-      "dateText": "Aug 27, 2026",
-      "durationText": "29 mins"
     }
   ]
 }
