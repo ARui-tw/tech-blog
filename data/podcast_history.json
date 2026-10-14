@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP246｜體質是頭痛關鍵，但你可以不頭痛 ft. 王署君醫師",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "2ff33a4f-d053-43cf-875d-3175d0490e11",
+      "dateText": "Oct 12, 2026",
+      "durationText": "54 mins"
+    },
+    {
       "title": "Conan O’Brien Must Go: Season 3 Roundtable Discussion Part II",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "3043ce82-1c75-432f-9c9b-7bfb4efd9371",
       "dateText": "Sep 3, 2026",
       "durationText": "28 mins"
-    },
-    {
-      "title": "【LNG】2026AUG 冰冰冰冰蹦 禿勁風冷傲退奧客",
-      "podcastTitle": "LNG 實況存檔",
-      "podcastUuid": "cf14afc0-7446-013e-dd5d-02e76e4f8b0f",
-      "episodeUuid": "941687a0-ab5e-47d0-9d3e-5bf3581cf2de",
-      "dateText": "Aug 29, 2026",
-      "durationText": "3h 18m"
     }
   ]
 }
