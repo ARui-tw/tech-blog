@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Kyle MacLachlan",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "1146ac5d-d0a0-4153-ad8f-e9b4e28bd874",
+      "dateText": "Oct 12, 2026",
+      "durationText": "1h 3m"
+    },
+    {
+      "title": "高雄城中城大火5年，原址改建公園後還留下什麼？曾蝸居大樓套房的倖存者，他們如何重新開始？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "7da2520c-6ef1-4740-aac8-6be9ffd3da0a",
+      "dateText": "Oct 14, 2026",
+      "durationText": "40 mins"
+    },
+    {
       "title": "EP246｜體質是頭痛關鍵，但你可以不頭痛 ft. 王署君醫師",
       "podcastTitle": "博音",
       "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
@@ -224,22 +240,6 @@
       "episodeUuid": "7040c47d-cc10-47d1-b968-f7f30e6256e9",
       "dateText": "Sep 7, 2026",
       "durationText": "1h 7m"
-    },
-    {
-      "title": "Summer S’pouses Episode 6: The Spouses Reunited",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "0af459dd-3c22-49d0-86bc-aa34f2dc4672",
-      "dateText": "Sep 3, 2026",
-      "durationText": "21 mins"
-    },
-    {
-      "title": "極端熱浪撼動的德國日常：萬人喪命迎來德國「冷氣元年」？乾旱讓河流見底浮出殘酷戰爭遺跡？",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "3043ce82-1c75-432f-9c9b-7bfb4efd9371",
-      "dateText": "Sep 3, 2026",
-      "durationText": "28 mins"
     }
   ]
 }
