@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Bubble Gum and Cyanide",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "441600d1-2040-4dca-950b-150e4b92e526",
+      "dateText": "Oct 15, 2026",
+      "durationText": "26 mins"
+    },
+    {
       "title": "Kyle MacLachlan",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -232,14 +240,6 @@
       "episodeUuid": "3febd865-040b-46ba-ba3a-cd71b91b674d",
       "dateText": "Sep 9, 2026",
       "durationText": "55 mins"
-    },
-    {
-      "title": "Matt Groening",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "7040c47d-cc10-47d1-b968-f7f30e6256e9",
-      "dateText": "Sep 7, 2026",
-      "durationText": "1h 7m"
     }
   ]
 }
