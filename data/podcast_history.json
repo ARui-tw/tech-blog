@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "EP247 | 學會這個思考架構，就再也沒有事情難得倒你 ft. 密涅瓦大學決策與應用分析碩士 李佳達",
+      "podcastTitle": "博音",
+      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
+      "episodeUuid": "bf7346bd-3ab8-43cc-9683-1dc488f706d1",
+      "dateText": "Oct 19, 2026",
+      "durationText": "1h 1m"
+    },
+    {
       "title": "S2EP2 長大以後，你還剩下多少興趣？｜毛線、坦克、磨墨與童年回憶",
       "podcastTitle": "牙科長頸鹿 | 只說真心話",
       "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
@@ -232,14 +240,6 @@
       "episodeUuid": "b153f0e8-a153-472d-94f2-158987d483ff",
       "dateText": "Sep 11, 2026",
       "durationText": "12 mins"
-    },
-    {
-      "title": "EP241 | 網路公審正在讓我們變得更不道德 ft. 王榮麟教授",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "e4ab4512-e4e7-4bbd-9570-a53e3aa9e7e8",
-      "dateText": "Sep 7, 2026",
-      "durationText": "1h 7m"
     }
   ]
 }
