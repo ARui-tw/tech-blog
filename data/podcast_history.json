@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Ricky",
+      "podcastTitle": "Darknet Diaries",
+      "podcastUuid": "170a7610-948e-0135-9d21-5bb073f92b78",
+      "episodeUuid": "33097d3f-b173-4d91-b6c2-85ff95f36d4d",
+      "dateText": "Oct 20, 2026",
+      "durationText": "1h 23m"
+    },
+    {
       "title": "S2EP2 長大以後，你還剩下多少興趣？｜毛線、坦克、磨墨與童年回憶",
       "podcastTitle": "牙科長頸鹿 | 只說真心話",
       "podcastUuid": "6b5df330-012b-013f-3a10-0affff3fa343",
@@ -232,14 +240,6 @@
       "episodeUuid": "b153f0e8-a153-472d-94f2-158987d483ff",
       "dateText": "Sep 11, 2026",
       "durationText": "12 mins"
-    },
-    {
-      "title": "EP241 | 網路公審正在讓我們變得更不道德 ft. 王榮麟教授",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "e4ab4512-e4e7-4bbd-9570-a53e3aa9e7e8",
-      "dateText": "Sep 7, 2026",
-      "durationText": "1h 7m"
     }
   ]
 }
