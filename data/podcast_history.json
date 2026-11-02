@@ -2,6 +2,46 @@
   "total": 100,
   "episodes": [
     {
+      "title": "離開學校人行道就沒了、學童事故熱點不在通學區範圍！為何政府改善力不從心、孩子上下學仍難安心？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "c160f75b-256d-479f-8902-46cd32e2876a",
+      "dateText": "Oct 21, 2026",
+      "durationText": "47 mins"
+    },
+    {
+      "title": "\"Sin vs. Iniquity and Other Holy Topics\"",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "9a234f74-82e4-4f2c-962c-701b4ead53f9",
+      "dateText": "Oct 22, 2026",
+      "durationText": "31 mins"
+    },
+    {
+      "title": "Olivia Harrison",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "9cbd0646-9c2c-4fa8-9551-af03ded4118c",
+      "dateText": "Oct 22, 2026",
+      "durationText": "55 mins"
+    },
+    {
+      "title": "EP134｜今天來「蒸餾」外資買方分析師 Vincent（余鎮文）",
+      "podcastTitle": "曼報",
+      "podcastUuid": "db6e9b90-8cf5-0138-ee52-0acc26574db2",
+      "episodeUuid": "0ef923f7-81c8-4dc7-bfda-1f24279c0cb5",
+      "dateText": "Oct 22, 2026",
+      "durationText": "1h 13m"
+    },
+    {
+      "title": "今天來敲婉｜南鐵駛進地下，城市迎來新生：告別百年鐵路的最後一夜，拆遷戶的傷痕為何不該被遺忘？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "059b6a50-84db-42f5-b915-7befc374c805",
+      "dateText": "Oct 23, 2026",
+      "durationText": "14 mins"
+    },
+    {
       "title": "Ricky",
       "podcastTitle": "Darknet Diaries",
       "podcastUuid": "170a7610-948e-0135-9d21-5bb073f92b78",
@@ -200,46 +240,6 @@
       "episodeUuid": "98fbb8b2-1800-4453-9265-0bc9135106bf",
       "dateText": "Aug 31, 2026",
       "durationText": "39 mins"
-    },
-    {
-      "title": "從擔憂「這有人要看嗎？」到報導者學院開課！與金馬導演合力打造的線上課程，和你一起學習理解世界的方法",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "5ca75246-ef85-44c8-8976-8c3f837a24bf",
-      "dateText": "Sep 16, 2026",
-      "durationText": "57 mins"
-    },
-    {
-      "title": "EP242 | 怎麼讓房仲親口說出你要的數字 ft. 陳侯勳 談判大叔",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "0b07262f-a9b2-42bb-81bf-47539d6217e3",
-      "dateText": "Sep 14, 2026",
-      "durationText": "1h 1m"
-    },
-    {
-      "title": "Taylor Tomlinson Returns Again",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "8a1b7c9c-6bae-4230-b917-506ded251558",
-      "dateText": "Sep 14, 2026",
-      "durationText": "1h 4m"
-    },
-    {
-      "title": "A Conversation about Prison Telecommunication with Mike Wessler",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "ab54efa2-e0da-44a6-bc40-ded98cf51ace",
-      "dateText": "Sep 3, 2026",
-      "durationText": "29 mins"
-    },
-    {
-      "title": "今天來敲婉｜在沒有地圖的復元路上，性創傷倖存者與重要他人，該如何同行？",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "b153f0e8-a153-472d-94f2-158987d483ff",
-      "dateText": "Sep 11, 2026",
-      "durationText": "12 mins"
     }
   ]
 }
