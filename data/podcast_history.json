@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "Martin Short Returns Again",
+      "podcastTitle": "Conan O’Brien Needs A Friend",
+      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
+      "episodeUuid": "bb00c0e8-8430-4406-94f7-1a9c6fc72824",
+      "dateText": "Oct 19, 2026",
+      "durationText": "1h 1m"
+    },
+    {
       "title": "離開學校人行道就沒了、學童事故熱點不在通學區範圍！為何政府改善力不從心、孩子上下學仍難安心？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "e0a42895-2f64-424a-9b57-59df3ee1effe",
       "dateText": "Sep 17, 2026",
       "durationText": "25 mins"
-    },
-    {
-      "title": "EP240 | 聽到這些詞，就知道是智商稅 ft. 徐榜奎博士",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "98fbb8b2-1800-4453-9265-0bc9135106bf",
-      "dateText": "Aug 31, 2026",
-      "durationText": "39 mins"
     }
   ]
 }
