@@ -2,6 +2,46 @@
   "total": 100,
   "episodes": [
     {
+      "title": "眼見臨終癌患仍被詐財、國土被非法傾倒的廢棄物傷害——一個檢察官的怒火和使命",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "44bb2692-559e-4ead-9673-4698e521b6af",
+      "dateText": "Nov 4, 2026",
+      "durationText": "50 mins"
+    },
+    {
+      "title": "「兒子真的以妳為榮」金鐘最動人致詞幕後：賣金飾上早療、自學引導陪伴，張大一母親笑：金子在他身上發光",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "45ea894b-531f-454a-a3b7-78c5d3f30b45",
+      "dateText": "Nov 6, 2026",
+      "durationText": "44 mins"
+    },
+    {
+      "title": "AI假語音、假影音能影響選舉嗎？當生成式AI對各國選舉造成負面效應，我們如何健全法制及守住民主防線？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "ac65ed29-f10f-43aa-9e97-0a891558db71",
+      "dateText": "Oct 28, 2026",
+      "durationText": "44 mins"
+    },
+    {
+      "title": "今天來敲婉｜八成長者健保費由政府買單，是照顧長輩還是世代剝奪？法案落實前，還可以的討論有哪些？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "4b61f98b-964f-40c1-b691-7b273b117bc7",
+      "dateText": "Oct 30, 2026",
+      "durationText": "13 mins"
+    },
+    {
+      "title": "I never said I was a good communicator",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "b41bec50-736c-4245-9093-64ff57a76007",
+      "dateText": "Oct 29, 2026",
+      "durationText": "17 mins"
+    },
+    {
       "title": "Martin Short Returns Again",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -200,46 +240,6 @@
       "episodeUuid": "63d27f7c-1419-4813-adc7-00e945c6cd45",
       "dateText": "Sep 22, 2026",
       "durationText": "53 mins"
-    },
-    {
-      "title": "EP243 | 兒童虐待比你想像的嚴重多了 ft. 呂立醫師",
-      "podcastTitle": "博音",
-      "podcastUuid": "47172340-5a47-013a-d707-0acc26574db2",
-      "episodeUuid": "68b79d82-5afe-4b27-93ad-8d6e4efa3a63",
-      "dateText": "Sep 21, 2026",
-      "durationText": "1h 21m"
-    },
-    {
-      "title": "Andy Daly Returns",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "e15f1d3e-4fda-43ba-9b3e-ab68f37dccfe",
-      "dateText": "Aug 31, 2026",
-      "durationText": "1h 8m"
-    },
-    {
-      "title": "The Body Politic Part I",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "b6398103-c71e-4d54-961e-bd09f620d059",
-      "dateText": "Sep 17, 2026",
-      "durationText": "24 mins"
-    },
-    {
-      "title": "高呼修復民主，為何票投極右翼？解析德國AfD地方勝選：選民焦慮、東德情懷與防火牆危機",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "85965b6d-ebef-4ef5-92a6-bda78fb277e9",
-      "dateText": "Sep 18, 2026",
-      "durationText": "34 mins"
-    },
-    {
-      "title": "What Does a Sandworm Sound Like?",
-      "podcastTitle": "Hyperfixed | Premium",
-      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
-      "episodeUuid": "e0a42895-2f64-424a-9b57-59df3ee1effe",
-      "dateText": "Sep 17, 2026",
-      "durationText": "25 mins"
     }
   ]
 }
