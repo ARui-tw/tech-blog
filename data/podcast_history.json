@@ -2,6 +2,22 @@
   "total": 100,
   "episodes": [
     {
+      "title": "儘管世界爛透了｜藍色狂潮、紅州失守、高漲的厭戰情緒：期中選舉後，美國政治對抗如何開展新局？",
+      "podcastTitle": "《The Real Story》By 報導者",
+      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
+      "episodeUuid": "f3cd62c8-82c0-49f4-a712-81028ee77495",
+      "dateText": "Nov 11, 2026",
+      "durationText": "40 mins"
+    },
+    {
+      "title": "How America Got Online",
+      "podcastTitle": "Hyperfixed | Premium",
+      "podcastUuid": "1942a000-6fe7-013f-aec8-0affe66a1943",
+      "episodeUuid": "5908ce33-7aa5-4cd6-a24a-92ceb0636bd0",
+      "dateText": "Nov 5, 2026",
+      "durationText": "35 mins"
+    },
+    {
       "title": "For the Love of Butts",
       "podcastTitle": "Conan O’Brien Needs A Friend",
       "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
@@ -224,22 +240,6 @@
       "episodeUuid": "9e856cc2-1163-4a05-8a16-cd2de62322db",
       "dateText": "Sep 24, 2026",
       "durationText": "22 mins"
-    },
-    {
-      "title": "吹哨者還在！91歲醫師談「沙兒」鑑定過程；對海豹肢、血壓都量不準的沙利竇邁藥害者，政府能否專案照顧老後醫療？",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "76a232ac-214a-4cd9-88d3-a646a5a895ee",
-      "dateText": "Sep 24, 2026",
-      "durationText": "43 mins"
-    },
-    {
-      "title": "儘管世界爛透了｜世界盃愈踢愈長？維德角黑馬、哈蘭德迷因、99名球員出生法國，多視角看懂足球全球化",
-      "podcastTitle": "《The Real Story》By 報導者",
-      "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
-      "episodeUuid": "de250ce4-4c62-4e46-8cac-3c6991bb4823",
-      "dateText": "Jul 15, 2026",
-      "durationText": "56 mins"
     }
   ]
 }
