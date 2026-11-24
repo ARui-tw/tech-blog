@@ -2,6 +2,14 @@
   "total": 100,
   "episodes": [
     {
+      "title": "【LNG】2026APR 反正都會變成大便 時間到了就換下一位",
+      "podcastTitle": "",
+      "podcastUuid": "cf14afc0-7446-013e-dd5d-02e76e4f8b0f",
+      "episodeUuid": "16cfb624-78fe-46e2-8441-877dd9f1b7bf",
+      "dateText": "Apr 19, 2026",
+      "durationText": "3h 55m"
+    },
+    {
       "title": "儘管世界爛透了｜藍色狂潮、紅州失守、高漲的厭戰情緒：期中選舉後，美國政治對抗如何開展新局？",
       "podcastTitle": "《The Real Story》By 報導者",
       "podcastUuid": "41fe0530-b94b-0138-e6e4-0acc26574db2",
@@ -232,14 +240,6 @@
       "episodeUuid": "536c7e2e-a6d9-4e28-9adb-8ab2816cac5b",
       "dateText": "Sep 28, 2026",
       "durationText": "1h 4m"
-    },
-    {
-      "title": "The Body Politic Part II",
-      "podcastTitle": "Conan O’Brien Needs A Friend",
-      "podcastUuid": "7c388990-aa35-0136-7b93-27f978dac4db",
-      "episodeUuid": "9e856cc2-1163-4a05-8a16-cd2de62322db",
-      "dateText": "Sep 24, 2026",
-      "durationText": "22 mins"
     }
   ]
 }
